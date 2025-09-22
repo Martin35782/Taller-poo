@@ -1,0 +1,11 @@
+﻿Documento,Usuario,Contrasena,Rol
+21445628,superadmin,superadmin,AdminAsignador
+28858510,admin,admin,Administrador
+22390285,administrativo1,administrativo1,Administrativo
+19440469,medico1,medico1,Medico
+25942269,enfer1,enfer1,Enfermeria
+32275218,medico2,medico2,Medico
+25942269,enfer2,enfer2,Enfermeria
+26992095,administrativo2,administrativo2,Administrativo
+32275218,administrativo3,administrativo3,Administrativo
+"44901991","Gregod","123","Medico"
